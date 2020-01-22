@@ -1,4 +1,4 @@
-# Docker image for dumping databases from mariadb containers
+# Docker image for dumping databases from PostgreSQL containers
 
 To use, run this container and then:
 ```
